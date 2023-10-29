@@ -46,7 +46,7 @@ Welcome to the repository containing a rich collection of Jupyter notebooks focu
 
 1. Clone the repository: 
     ```bash
-    git clone [[URL_TO_YOUR_REPOSITORY](https://github.com/TejaChilumula/255-Data-Mining-EDA-of-Different-data-types)]
+    git clone https://github.com/TejaChilumula/255-Data-Mining-EDA-of-Different-data-types
     ```
 2. Start Jupyter Notebook:
     ```bash
