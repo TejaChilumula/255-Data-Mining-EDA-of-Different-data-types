@@ -65,7 +65,3 @@ Welcome to the repository containing a rich collection of Jupyter notebooks focu
 ### 🌟 Star and Fork:
 
 If you find this repository useful, consider giving it a star! If you wish to use it in your own projects, go ahead and fork it.
-
----
-
-Replace `[URL_TO_YOUR_REPOSITORY]` and `[YOUR_REPOSITORY_NAME]` with appropriate details, and you'll have a complete README for your GitHub repository.
