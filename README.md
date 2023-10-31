@@ -3,6 +3,17 @@
 
 Welcome to the repository containing a rich collection of Jupyter notebooks focused on various types of data analysis! Dive deep into the intricacies of datasets, visualize patterns, and gain insights.
 
+Links to the Different Colab notebooks:
+
+1. [Tabular Data Analysis](https://colab.research.google.com/drive/1Tl4xCAwsn1eNdja6acOxzTN0eDyOCm54?usp=sharing)
+2. [Time Series](https://colab.research.google.com/drive/11Zfu9zSO9WjJBaGAfp32HBGCSRs0KF5c?usp=sharing)
+3. [Spatio Temporal](https://colab.research.google.com/drive/1BdzNDRXfAkSSGAFKwE-UfQOyI2jDB5wO?usp=sharing)
+4. [Image](https://colab.research.google.com/drive/1gsUJGYSo0oATmi36sLKmngsRwdkC4Ihr?usp=sharing
+)
+5. [Audio](https://colab.research.google.com/drive/1R2M1OIDFr2BgM0sCR9FfEzYTvw-fhPCz?usp=sharing)
+6. [Video](https://colab.research.google.com/drive/1dypZ73V1K5gBs6bpjy2-i2opNginf6Si?usp=sharing)
+7. [Graph](https://colab.research.google.com/drive/1g8puscovu2ngP4cWfwVl_Kmwl355EVN_?usp=sharing)
+
 ### 📂 Repository Contents:
 
 1. 📑 **Tabular Data Analysis**
