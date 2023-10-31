@@ -3,6 +3,8 @@
 
 Welcome to the repository containing a rich collection of Jupyter notebooks focused on various types of data analysis! Dive deep into the intricacies of datasets, visualize patterns, and gain insights.
 
+[Link to the medium](https://medium.com/@teja.btc07/exploratory-data-analysis-eda-and-data-preparation-a-comprehensive-guide-with-diverse-datasets-a8da98557225)
+
 Links to the Different Colab notebooks:
 
 1. [Tabular Data Analysis](https://colab.research.google.com/drive/1Tl4xCAwsn1eNdja6acOxzTN0eDyOCm54?usp=sharing)
